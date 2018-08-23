@@ -14,6 +14,8 @@
 
 - [Confidential Transactions](https://www.elementsproject.org/elements/confidential-transactions/) - A method for encrypting transaction amounts using zero-knowledge proofs.
 
+- [Grin](https://github.com/ignopeverell/grin) - A cryptocurrency implementation of the Mimblewimble protocol.
+
 - [JoinMarket](https://github.com/joinmarket-org/joinmarket/wiki) - A CoinJoin implementation that uses incentives to grow the anonymity set.
 
 - [Lightning Network](http://lightning.network/) - A payment channel system secured by Hashed Timelock Contracts.
