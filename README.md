@@ -38,7 +38,8 @@
 
 ## Tips
 
-ZEC - zc9kJ1jZUnKRghsLC9cVoRAWFgCiU5Mq4V6gS8pGXSBBgS3hS9VmLRFawkhpiFEuFpAKbBoxnGWRNeXfJzHNbAWk7tUh2s4
+**ZEC**
+`zc9kJ1jZUnKRghsLC9cVoRAWFgCiU5Mq4V6gS8pGXSBBgS3hS9VmLRFawkhpiFEuFpAKbBoxnGWRNeXfJzHNbAWk7tUh2s4`
 
 ## Contribute
 
