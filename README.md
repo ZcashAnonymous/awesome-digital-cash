@@ -35,7 +35,7 @@
 
 ### RPOW
 
-- [RPOW](https://nakamotoinstitute.org/finney/rpow/index.html) - An implementation of [bit gold](#bit gold) by Hal Finney.
+- [RPOW](https://nakamotoinstitute.org/finney/rpow/index.html) - An implementation of [bit gold](#bit-gold) by Hal Finney.
 
 ## Decentralized digital cash
 
