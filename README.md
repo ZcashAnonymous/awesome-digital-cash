@@ -4,12 +4,44 @@
 
 ## Contents
 
+[Centralized digital cash:](#centralized-digital-cash)
+
+- [Chaumian digital cash](#chaumian-digital-cash)
+- [RPOW](#rpow)
+
+[Decentralized digital cash:](#decentralized-digital-cash)
+
 - [Bitcoin](#bitcoin)
 - [Mimblewimble](#mimblewimble)
 - [Monero](#monero)
 - [Zcash](#zcash)
 
-## Bitcoin
+[Digital cash theory:](#digital-cash-theory)
+
+- [Chaum](#chaum)
+- [Dai](#dai)
+- [Finney](#finney)
+- [Szabo](#szabo)
+
+## Centralized digital cash
+
+### Chaumian digital cash
+
+- [HashCash](http://hashcash.com/) - A Perl implementation of Chaumian digital cash.
+
+- [Lucre](https://github.com/benlaurie/lucre) - C++ and Java implementations of Chaumian digital cash.
+
+- [Open Transactions](http://opentransactions.org/wiki/index.php?title=Main_Page) - A financial cryptography library that imports Ben Laurie's Lucre Chaumian digital cash implementation.
+
+### RPOW
+
+- [RPOW](https://nakamotoinstitute.org/finney/rpow/index.html) - An implementation of [bit gold](#bit gold) by Hal Finney.
+
+## Decentralized digital cash
+
+### Bitcoin
+
+- [Bitcoin](https://github.com/bitcoin/bitcoin) - The first implementation of decentralized digital cash.
 
 - [Bob Wallet](https://github.com/bobwallet/bobwallet) - A Bitcoin wallet that uses ShuffleLink to mix transactions.
 
@@ -31,7 +63,7 @@
 
 - [ZeroLink](https://github.com/nopara73/ZeroLink/) - A wallet privacy framework coupled with Chaumian CoinJoin.
 
-## Mimblewimble
+### Mimblewimble
 
 - [BEAM](https://www.beam-mw.com/) - A VC-funded cryptocurrency implementation of the Mimblewimble protocol that uses a "Growth Pool" to fund development.
 
@@ -39,7 +71,7 @@
 
 - [MimbleWimble](http://mimblewimble.cash/) - A privacy and fungibility focused cryptocoin transaction structure proposal.
 
-## Monero
+### Monero
 
 - [Kovri](https://getkovri.org/) - A C++ implementation of the i2p protocol developed by the Monero community to anonymize p2p network data.
 
@@ -47,11 +79,31 @@
 
 - [Monero Research Lab](https://lab.getmonero.org/) - A group that is advancing cryptocurrency fungibility R&D through the Monero project.
 
-## Zcash
+### Zcash
 
 - [Bolt](https://blog.z.cash/bolt-private-payment-channels/) - A payment channel system that improves upon the privacy properties of the Lightning Network.
 
 - [Zcash](https://z.cash) - A privacy-preserving cryptocurrency that uses zero-knowledge cryptography to encrypt transaction metadata.
+
+## Digital cash theory
+
+### Chaum
+
+- [Untraceable Electronic Cash](http://blog.koehntopp.de/uploads/chaum_fiat_naor_ecash.pdf) - A scheme preventing the double-spending of "unconditionally untraceable electronic money", by David Chaum, Amos Fiat, and Moni Naor.
+
+- [Detecting Double Spending](https://nakamotoinstitute.org/detecting-double-spending/) - A summary of _Untraceable Electronic Cash_, by Hal Finney.
+
+### Dai
+
+- [b-money](https://nakamotoinstitute.org/b-money/) - A theoretical precursor to Bitcoin invented by Wei Dai.
+
+### Finney
+
+- [Digital Cash & Privacy](https://nakamotoinstitute.org/digital-cash-and-privacy/) - An essay by Hal Finney about how digital cash can improve personal privacy.
+
+### Szabo
+
+- [Bit gold](https://nakamotoinstitute.org/bit-gold/) - A theoretical precursor to Bitcoin invented by Nick Szabo.
 
 ## Tips
 
