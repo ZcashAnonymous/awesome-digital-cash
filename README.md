@@ -41,7 +41,7 @@
 
 ### Bitcoin
 
-- [Bitcoin](https://github.com/bitcoin/bitcoin) - The first implementation of decentralized digital cash.
+- [Bitcoin](https://nakamotoinstitute.org/bitcoin/) - The first implementation of decentralized digital cash.
 
 - [Bob Wallet](https://github.com/bobwallet/bobwallet) - A Bitcoin wallet that uses ShuffleLink to mix transactions.
 
