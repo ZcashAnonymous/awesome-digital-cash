@@ -4,19 +4,19 @@
 
 ## Contents
 
-[Centralized digital cash:](#centralized-digital-cash)
+[Centralized digital cash](#centralized-digital-cash):
 
 - [Chaumian digital cash](#chaumian-digital-cash)
 - [RPOW](#rpow)
 
-[Decentralized digital cash:](#decentralized-digital-cash)
+[Decentralized digital cash](#decentralized-digital-cash):
 
 - [Bitcoin](#bitcoin)
 - [Mimblewimble](#mimblewimble)
 - [Monero](#monero)
 - [Zcash](#zcash)
 
-[Digital cash theory:](#digital-cash-theory)
+[Digital cash theory](#digital-cash-theory):
 
 - [Chaum](#chaum)
 - [Dai](#dai)
